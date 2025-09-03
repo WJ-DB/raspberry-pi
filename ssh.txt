@@ -1,0 +1,10 @@
+ssh willbrowning@raspberrypiWJDB.local
+
+
+Ideas:
+Set up Pi-hole to block ads
+Use it for home automation
+
+Run Python scripts remotely
+
+You might look into writing a program to generate Mandelbrot sets, or their inverse, Julia sets. Writing a program to run the Game of Life might also be interesting. (The rules for all of those are very simple, while the results can be amazingly complex.)
